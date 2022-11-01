@@ -26,7 +26,7 @@
 
 ## Hosting your resume on Github
 
-![] (https://github.com/Tellmore01/Tellmore01.github.io/blob/main/HostResumeOnGithub.gif)
+![](https://github.com/Tellmore01/Tellmore01.github.io/blob/main/HostResumeOnGithub.gif)
 
 
 
