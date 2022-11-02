@@ -3,7 +3,7 @@
 
 [GitHub](https://github.com/Tellmore01)
 
-[Linkedin](https://www.linkedin.com/in/mostafa-hamed)
+[Linkedin](https://www.linkedin.com/in/mostafa-hamed-393a5b215/)
 
 EDUCATION    
 
