@@ -46,7 +46,7 @@ PERSONAL PROJECTS
 
 ##### AUTOMATED COURSE REGISTRATION (EDUCATIONAL PURPOSES ONLY) (Python, Selenium)
 
-* 	Implemented a python script that logins to a university account, goes to the Enrolment section, and fills the CRN section with the specified CRNs.
+* 	Implemented a python script that logins to a university account, goes to the Enrollment section, and fills the CRN section with the specified CRNs.
 
 
 GROUP PROJECTS
