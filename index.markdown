@@ -18,8 +18,8 @@ WORK EXPERIENCE
 
 
 ##### OVERNIGHT STOCKER | REAL CANADIAN SUPERSTORE  (Dec 2021-June 2022)
-*	Maintained and monitored off-the-shelf products and stockd inventories overnight.
-*	Collaborated with team members and arranged pallets deliveries.
+*	Maintained and monitored off-the-shelf products and stocked inventories overnight.
+*	Collaborated with team members and arranged pallet deliveries.
 
 
 
@@ -27,12 +27,12 @@ WORK EXPERIENCE
 VOLUNTEERING 
 
 ##### RESALA CHARITY ORGANIZATION |  (JAN 2018)
-* Recycled clothes, shoes, and damaged textiles and helped executing clothing donations.
+* Recycled clothes, shoes, and damaged textiles and helped execute clothing donations.
 
 PERSONAL PROJECTS
 ##### ONLINE JEWELRY APP (Google Flutter, Dart, stored procedures(DB), Git)
 
-*	jewellery  E-commerce application that allows users to view the store in real-time from the store.
+*	Jewelry   E-commerce application that allows users to view the store in real-time from the store.
 *	View all the store collections.
 *	Like items and Track them.
 *	Filter and browse through items in the store.
@@ -40,11 +40,11 @@ PERSONAL PROJECTS
 
 ##### AUTOMATED CISCO WIBEX MEETING (Python, Selenium)
 
-* Implemented a Python script that logins to a university account, selects the specified course, and joins the Cisco Webex meeting.
+* 	Implemented a Python script that logins to a university account, selects the specified course, and joins the Cisco Webex meeting.
 *	Used Xpath and ID to determine web elements.
 
 
-##### AUTOTAMTED COURSE REGESTRATION (EDUCATIONAL PURPOSES ONLY) (Python, Selenium)
+##### AUTOMATED COURSE REGISTRATION (EDUCATIONAL PURPOSES ONLY) (Python, Selenium)
 
 * 	Implemented a python script that logins to a university account, goes to the Enrolment section, and fills the CRN section with the specified CRNs.
 
