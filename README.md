@@ -47,7 +47,7 @@ your resume on Github pages.
 2. A command line window will pop up when you are done installing. 
 3. Press 1 and then enter to install MSYS2 base installation. 
 4. Press 2 and then enter to install MSYS2 system update.
-5. Press 2 and then enter to install MSYS2 and MINGW development toolchain.
+5. Press 3 and then enter to install MSYS2 and MINGW development toolchain.
 
 
   
